@@ -49,6 +49,5 @@ Future Enhancements:
     - Save records to file (CSV/JSON)
     - Search by name or roll
     - Sorting
-Attendance system
-
-GUI (Tkinter) version
+    - Attendance system
+    - GUI (Tkinter) version
